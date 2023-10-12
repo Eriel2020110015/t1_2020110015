@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "t1_2020110015" "\0"
+            VALUE "FileDescription", "eriel_uts" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "t1_2020110015" "\0"
+            VALUE "InternalName", "eriel_uts" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "t1_2020110015.exe" "\0"
-            VALUE "ProductName", "t1_2020110015" "\0"
+            VALUE "OriginalFilename", "eriel_uts.exe" "\0"
+            VALUE "ProductName", "eriel_uts" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
